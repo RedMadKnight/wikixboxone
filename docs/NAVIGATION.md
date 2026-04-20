@@ -63,6 +63,7 @@ search:
   - [XSTS Token](xbox-live/xsts-token.md)
   - [Update Groups](xbox-live/update-group-ids.md)
   - [Update CDN APIs and Downloads](xbox-live/update-cdn.md)
+  - [JWT Token Relying Parties](xbox-live/jwt-token-relyingparties.md)
 - File formats
   - [Update.cfg](file-formats/update-cfg.md)
   - [XVI](file-formats/xvi.md)
